@@ -32,5 +32,5 @@ cacheSolve <- function(x, ...) {
   x$setinverse(j1)    ## sets the value in the cache
   j1
 }
-#see answer
+
 cacheSolve(j)
